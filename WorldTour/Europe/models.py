@@ -7,6 +7,4 @@ class Trip(models.Model):
     price = models.IntegerField()
     night = models.IntegerField() 
     
-    night2 = models.IntegerField() 
-    night3 = models.IntegerField() 
-    night4 = models.IntegerField() 
+     
